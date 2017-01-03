@@ -3,12 +3,9 @@
   "version": "0.0.1",
   "description": "Gulp Build Tasks for React Component Projects",
   "main": "index.js",
-  "author": "Jed Watson",
+  "author": "Bryan Henderson",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/henderstack/react-gulp-task-bundler.git"
-  },
+  "repository": "git+https://github.com/henderstack/react-gulp-task-bundler.git",
   "dependencies": {
     "aliasify": "^2.1.0",
     "babel-core": "^6.21.0",
