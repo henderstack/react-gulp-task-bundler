@@ -1,0 +1,22 @@
+{
+  "name": "react-gulp-task-bundler",
+  "description": "Gulp Build Tasks for React Component Projects",
+  "main": "index.js",
+  "authors": [
+    "Bryan Henderson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "browserify",
+    "gulp"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
